@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xelastarburst.github.io/sitemap.xml
